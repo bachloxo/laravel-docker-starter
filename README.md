@@ -1,14 +1,17 @@
-Quick Laravel Docker Starter
+##### Quick Laravel Docker Starter
 This starter repo was born out of frustration of getting docker working with Laravel. Hopefully this will save you some headache!
 
-Prerequisites:
+##### Prerequisites:
 
 PHP 7.1 (minimum)
 Composer install guide
 Docker install guide
 Docker Compose install guide
 Get started
-Clone this repo and navigate to the repo folder. Run bash ./new_project.sh
+Clone this repo and navigate to the repo folder. Run 
+```
+bash ./new_project.sh
+```
 Run docker-compose up
 When you run docker ps, you should see your service running locally at http://localhost:9000
 
