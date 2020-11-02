@@ -13,7 +13,7 @@ Clone this repo and navigate to the repo folder. Run
 bash ./new_project.sh
 ```
 Run docker-compose up
-When you run docker ps, you should see your service running locally at http://localhost:9000
+When you run docker ps, you should see your service running locally at http://localhost
 
 To run migrations and commands that interact with the database you need to be inside the laravel web app container.
 
